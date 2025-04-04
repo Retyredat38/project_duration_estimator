@@ -1,0 +1,11 @@
+﻿Task,Min,MostLikely,Max
+Define project scope,3,5,7
+Gather requirements,4,6,9
+Design system architecture,7,10,14
+Develop prototypes,10,15,20
+Test prototypes,5,8,12
+Refine design,3,5,7
+Implement final solution,15,20,30
+Conduct user training,2,3,4
+Deploy solution,1,2,3
+Post-deployment support,5,7,10
